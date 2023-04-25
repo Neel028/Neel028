@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neel Koshiya</h1>
 
 <center>
-<img margin="0px auto !important" display="block !important" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img margin="0px auto !important" align="center !important" display="block !important" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 </center>
 # 💫 About Me:
 🌱 I’m currently learning React js
