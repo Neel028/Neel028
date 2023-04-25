@@ -1,9 +1,7 @@
-<center>
-
 # 💫 About Me:
 🌱 I’m currently learning React js
 
-<img width="100%" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img margin="0ox auto" width="100%" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/NeelKoshiya)
@@ -26,7 +24,3 @@
 [![](https://visitcount.itsvg.in/api?id=Neel028&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-</center>
